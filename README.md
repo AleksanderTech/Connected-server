@@ -23,7 +23,7 @@ Executing via the main class or by running jar file passing no parameters
   
 **java -jar ChatServer-1.0-SNAPSHOT-jar-with-dependencies.jar /path/to/your/application.properties**.
 
-[link to Connected - client](https://github.com/AleksanderTech/Connected-client)
+[Connected - client](https://github.com/AleksanderTech/Connected-client)
 
 
 
